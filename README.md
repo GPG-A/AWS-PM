@@ -1,2 +1,2 @@
 ## AWS-PM
-> Project management & architecture design
+> Project Management & Architecture Design
